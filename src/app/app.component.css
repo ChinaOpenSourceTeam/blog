@@ -1,0 +1,17 @@
+.one {
+  position: relative;
+  margin-top: -0.5rem;
+  background: #333;
+  line-height: 3rem;
+  text-align: center;
+}
+a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover, .active {
+  background: #ffffff;
+  color: #333333;
+}
